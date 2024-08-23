@@ -15,19 +15,13 @@ Here are some ideas to get you started:
 
 # Hi! It's Emma 👋
 
----
-
 ***Data Scientist and Bioinformatics Scientist in Training***
 
 she/her
 
-<aside>
 ☝🏻 Check out my [LinkedIn](https://www.linkedin.com/in/emma-juan-salazar/) and my Resume for more information about my path!
-</aside>
 
 # About me
-
----
 
 As a dedicated Master's student in Bioinformatics at Pompeu Fabra University and Data Science at the University of San Francisco, I am passionate about leveraging data to drive insights in the field of bioinformatics. I am actively building a portfolio that combines coding expertise with research, featuring projects in bioinformatics, data science, computer science, and data engineering.
 
