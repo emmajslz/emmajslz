@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! It's Emma 👋
+# Hi! It's Emma 👋🏻
 
 ***Data Scientist and Bioinformatics Scientist in Training***
 
