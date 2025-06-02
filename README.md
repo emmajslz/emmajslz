@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi! It's Emma 👋🏻
 
-***Data Scientist** with 2+ years of experience leveraging data for research
+**Data Scientist** with 2+ years of experience leveraging data for research
 
 she/her
 
