@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 
 # Hi! It's Emma 👋🏻
 
-***Data Scientist and Bioinformatics Scientist in Training***
+***Data Scientist** with 2+ years of experience leveraging data for research
 
 she/her
 
-☝🏻 Check out my [LinkedIn](https://www.linkedin.com/in/emma-juan-salazar/) and my Resume for more information about my path!
+☝🏻 Check out my [LinkedIn](https://www.linkedin.com/in/emma-juan-salazar/) for more information about my path!
 
 # About me
 
-As a dedicated Master's student in Bioinformatics at Pompeu Fabra University and Data Science at the University of San Francisco, I am passionate about leveraging data to drive insights in the field of bioinformatics. I am actively building a portfolio that combines coding expertise with research, featuring projects in bioinformatics, data science, computer science, and data engineering.
+I'm a data scientist with a strong foundation in computer science, mathematics, and bioinformatics. I have over two years of experience applying machine learning, data engineering, and statistical modeling to real-world challenges, especially in biomedical and healthcare research.
 
-I would love to apply advanced analytical techniques to understand complex biological data and contribute to impactful research. I am currently furthering my education in the field of Data Science. My goal is to transition into the industry as a Bioinformatics Scientist, where I can utilize my skills in data analysis, programming, and scientific research to solve real-world challenges in genomics and biotechnology.
+With a Fulbright Scholarship and a master’s in Data Science from the University of San Francisco, I'm driven by curiosity and a passion for using data to improve lives. I’ve lived, studied, and worked across several countries, which has shaped not just how I see the world, but how I approach problems—with flexibility, cultural awareness, and a desire to build things that matter.
+
+✨ Outside of work, you’ll usually find me snowboarding, devouring fantasy novels, or volunteering with patients who have neurological conditions—activities that ground me, inspire me, and keep me connected to what really matters. ✨
 
 *some other things about me…*
 
